@@ -8,3 +8,5 @@
 - Creating a basic server with Golang
 - Reading and Writing to a file
 - GET and POST routes
+
+**Next Module**: [Logging](https://github.com/rohinivsenthil/golang-getting-started/tree/logging)
